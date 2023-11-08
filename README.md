@@ -16,7 +16,7 @@ This repo recreates the Flip Fluid Simulation in C++23
 
 Presented during the CppNorth 2023 conference
 
-Youtube link : soon!
+Youtube link : https://youtu.be/BbNPeR2PW4Q?si=4d96JQ5gAp6fPWvn
 
 ![initial](https://github.com/joblobob/fluid/assets/5419436/7c0e98f6-fd7b-4b5a-a0b8-5e9b455d258d)
 
